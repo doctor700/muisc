@@ -1,0 +1,5 @@
+token=NTk1Mjg2NTY0NjExODE3NDcy.XRox1A.KAIZwQowqlA9xoZik1v_Xiu447k
+owner=573517050241351691
+prefix=6
+game=Break| 6help
+stayinchannel=true
