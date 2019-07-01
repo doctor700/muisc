@@ -1,5 +1,5 @@
-token=NTk1Mjg5MzM3MjQ4MjE5MTQ2.XRo0gQ.Yz66NO0wfECGvuuen-Us4Vla7H8
+token=NTk1MjkyNzAxODg5Mzk2NzYw.XRo3jA.MAAWDkzrTOqMKHTz3zHo1R-85wg
 owner=573517050241351691
-prefix=7
-game=Break| 7help
+prefix=8
+game=Break| 8help
 stayinchannel=true
