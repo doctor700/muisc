@@ -1,4 +1,4 @@
-token=NTk1Mjk1NjkxMTc0MTgyOTY2.XRo6VQ.GZRSzDnOptwok0ml8fK_feSjFIY
+token=NTk1Mjk4Nzc5MTUwOTQyMjA5.XRqL-A.S0WJ9o5DZKfOMvuloH9N0n4a8t4
 owner=573517050241351691
 prefix=9
 game=Break| 9help
